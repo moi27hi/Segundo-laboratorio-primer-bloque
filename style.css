@@ -1,0 +1,26 @@
+body { font-family: sans-serif; text-align: center; background-color: #f4f4f4; }
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas como en la imagen */
+    gap: 15px;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+.box {
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    font-weight: bold;
+    color: #444;
+    transition: 0.3s;
+    border: 2px solid #ddd;
+    background-color: #fff;
+}
+/* Colores similares a la muestra del laboratorio */
+#box1, #box4 { background-color: #d1ecf1; }
+#box2, #box3 { background-color: #fff3cd; }
+#box5, #box6 { background-color: #e2e3e5; }
+#box7, #box8 { background-color: #f8d7da; }
