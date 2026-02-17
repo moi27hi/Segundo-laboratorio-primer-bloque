@@ -6,7 +6,7 @@ Programación IV
 Nombre de la actividad.
 2do laboratorio Primer Bloque
 
-Estudiantes:
+Estudiante:
 Moisés Abelino Ramírez Rubio
 
 
